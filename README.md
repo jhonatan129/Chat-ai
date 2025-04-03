@@ -1,2 +1,2 @@
-# Chat-ai
-Buat chat ai 
+app.py, requirements.txt
+procfile
